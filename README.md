@@ -52,6 +52,7 @@ You can purchase various energy resources, each with its own cost, operating exp
    ```bash
    git clone https://github.com/DERMOUCHERYAD/AES-CTR-XOR-Decryption-Challenge.git
    cd AES-CTR-XOR-Decryption-Challenge
+    ```
 
 2.  **Install Dependencies:**
 
