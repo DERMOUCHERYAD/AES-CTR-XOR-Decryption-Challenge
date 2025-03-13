@@ -50,20 +50,24 @@ You can purchase various energy resources, each with its own cost, operating exp
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/DERMOUCHERYAD/AES-CTR-XOR-Decryption-Challenge.git
+   cd AES-CTR-XOR-Decryption-Challenge
 
 2.  **Install Dependencies:**
 
 Make sure you have Python 3 installed. Then, install the required package:
-  bash:
+   ```bash
   pip install pycryptodome
+    ```
 
 3.  **Run the Challenge Script:**
 
      - First, you can run challenge.py to understand the encryption process and see how output.txt was generated.
 4.   **Solve the Decryption Challenge:**
-     - Execute script.py to recover the flag: python3 script.py
+     - Execute script.py to recover the flag:
+        ```bash
+       python3 script.py
+         ```
 5.  **Use the Flag for the Next Puzzle:**
 Once you have the flag, open file.txt (which contains a matrix representing an input.txt file). Use your own solver (or modify script.py) to process this input according to the challenge rules and capture the final flag.
   
