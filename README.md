@@ -17,8 +17,11 @@
   - Recovers the AES-CTR keystream using the known test message.
   - Uses the keystream to decrypt the secret flag from the second line.
 
-- **file.txt**  
+- **3good-all.txt**  
   After obtaining the flag, it was stored inside a “box.” This file contains a matrix representing an `input.txt` file. You are expected to feed this input to your solver according to the challenge rules (see below).
+
+- **output.txt**
+   the solution after using the solver 
 
 ## What Is the Challenge?
 
