@@ -20,7 +20,7 @@
 - **3good-all.txt**  
   After obtaining the flag, it was stored inside a “box.” This file contains a matrix representing an `input.txt` file. You are expected to feed this input to your solver according to the challenge rules (see below).
 
-- **output.txt**
+- **flagRes.txt**
    the solution after using the solver 
 
 ## What Is the Challenge?
