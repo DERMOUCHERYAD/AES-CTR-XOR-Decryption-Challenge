@@ -59,7 +59,7 @@ You can purchase various energy resources, each with its own cost, operating exp
 Make sure you have Python 3 installed. Then, install the required package:
    ```bash
   pip install pycryptodome
-    
+   ``` 
 
 3.  **Run the Challenge Script:**
 
